@@ -1,4 +1,4 @@
-Task Name: Performing Exploratory Data Analysis on a dataset
+Task Name: Exploratory Data Analysis(EDA)
 
 Internship Company: CODTECH IT SOLUTIONS PVT.LTD
 
@@ -13,10 +13,10 @@ Dataset used for task: Crime against women dataset 2021
 Technologies used: Python, Jupyter notebook
 
 Short Description:
-      At first the all the libraries were imported in the jupyter notebook and then the dataset was read. Further the data was cleaned, preprocessed 
+      At first, all the libraries were imported in the jupyter notebook and then the dataset was read. Further the data was cleaned, pre-processed .
       
-      Then preliminary description of data was found
+      Then, preliminary description of data was found.
       
-      Next outliers were explored
+      Next, outliers were explored.
       
-      Next using scatterplot,Histogram, Heatmap etc. relations between different columns of data were observed
+      Next, using scatterplot,Histogram, Heatmap etc. relations between different columns of data were observed.
