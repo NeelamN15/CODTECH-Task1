@@ -1,5 +1,7 @@
 Task Name: Performing Exploratory Data Analysis on a dataset
+
 Internshipncompany: CODTECH IT SOLUTIONS PVT.LTD
+
 Intern name: Nilotpal Chatterjee
 InternID: CT12FMC
 Internship date: 20th Dec 2024 to 20th Feb 2025
